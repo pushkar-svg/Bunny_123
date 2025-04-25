@@ -5,7 +5,7 @@
 
 
 # <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/e4f28204-ea88-4364-a321-8330c3fbde6a" width="40"> About Me :
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Krishnaa548&label=Profile%20views&color=0e75b6&style=flat" alt="Krishnaa548" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Pushkar&label=Profile%20views&color=0e75b6&style=flat" alt="Pushkar" /> </p>
 
 <img align="right" alt="" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="500">
 🔭 I’m currently working on - <br> 
@@ -92,11 +92,11 @@
 ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=krishnaa548&theme=algolia&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Pushkar&theme=algolia&no-frame=false&no-bg=false&margin-w=4)
 
 <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Krishnaa548&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" style="max-width: 32%; flex: 1 1 30%;">
-  <img src="https://streak-stats.demolab.com/?user=Krishnaa548&theme=dark&hide_border=false" alt="GitHub Streak Stats" style="max-width: 32%;">
+  <img src="https://github-readme-stats.vercel.app/api?username=Pushkar&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" style="max-width: 32%; flex: 1 1 30%;">
+  <img src="https://streak-stats.demolab.com/?user=Pushkar&theme=dark&hide_border=false" alt="GitHub Streak Stats" style="max-width: 32%;">
   
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Krishnaa548&&theme=gotham&hide=C%23,HLSL,ShaderLab,Objective-C,Objective-C%2B%2B,GAP,CSS)
 </div>
@@ -115,12 +115,12 @@
 
 
 # <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30"> Commit Activity
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Krishnaa548&bg_color=161b22&color=ffffff&line=d5d5d5&point=a76c6c&area=true&hide_border=true&hide_title=true" /></br>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Pushkar548&bg_color=161b22&color=ffffff&line=d5d5d5&point=a76c6c&area=true&hide_border=true&hide_title=true" /></br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Krishnaa548/Krishnaa548/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Krishnaa548/Krishnaa548/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Krishnaa548/Krishnaa548/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pushkar/Pushkar/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pushkar/Pushkar/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Krishnaa548/Pushkar/output/github-snake.svg" />
 </picture>
 
 
